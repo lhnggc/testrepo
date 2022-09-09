@@ -1,4 +1,4 @@
-# Sample Mermaid diagrams, for more details JOJOJOJO:
+# Sample Mermaid diagrams, for more details SOLVED
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams
 
 
